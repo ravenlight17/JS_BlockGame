@@ -1,7 +1,7 @@
 # JS_BlockGame
 This is a simple JS block game with some additional tweaks to give a Super Mario vibe. Still need to work on it to change a couple of features. 
-- [ ] Change speed of ball
-- [ ] Change color of bricks and paddle
+- [x] Change speed of ball
+- [x] Change color of bricks and paddle
 - [ ] Create new game over prompt
 - [ ] Create new you win prompt 
 - [ ] Moving background
